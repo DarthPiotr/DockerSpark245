@@ -1,7 +1,7 @@
 FROM spark-base
 
 # -- Runtime
-ARG spark_version=2.4.5
+ARG spark_version=3.5.3
 
 ARG spark_worker_web_ui=8081
 
